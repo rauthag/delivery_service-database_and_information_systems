@@ -1,0 +1,9 @@
+C:\Users\lukas\Desktop\DeliveryORM\obj\Debug\Delivery.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\DeliveryORM\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\DeliveryORM\obj\Debug\AuctionSystemORM.exe
+C:\Users\lukas\Desktop\DeliveryORM\obj\Debug\AuctionSystemORM.pdb
+C:\Users\lukas\Desktop\DeliveryORM\bin\Debug\AuctionSystemORM.exe.config
+C:\Users\lukas\Desktop\DeliveryORM\bin\Debug\AuctionSystemORM.exe
+C:\Users\lukas\Desktop\DeliveryORM\bin\Debug\AuctionSystemORM.pdb
+C:\Users\lukas\Desktop\DeliveryORM\obj\Debug\AuctionSystemORM.Properties.Resources.resources
+C:\Users\lukas\Desktop\DeliveryORM\obj\Debug\Delivery.csproj.GenerateResource.cache

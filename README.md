@@ -1,2 +1,2 @@
 # delivery_service
-School project - Database and Information Systems 
+Project for school course - Database and Information Systems, implemented by .NET and PL/SQL. 
